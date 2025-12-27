@@ -23,3 +23,4 @@ else:
 ![WhatsApp Image 2025-12-27 at 9 57 38 PMa = int(input(Enter a number ))](https://github.com/user-attachments/assets/6c6b10fc-248f-47bd-b9d3-a33753490beb)
 
 ## Result
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
